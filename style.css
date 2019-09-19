@@ -4,7 +4,7 @@
 
 }
 section{
-    height: 100vh;
+    height: 200vh;
     background: #000000;
 }
 nav{
@@ -21,7 +21,7 @@ nav{
 }
 
 .logo h2{
-    line-height: 50px;
+    line-height: 60px;
     padding-left: 50px;
 }
 
@@ -101,6 +101,20 @@ h1{
     
 
 }
+h2 p{
+    margin:0;
+    padding: 0;
+    position: absolute;
+    top:80%;
+    width:100%;
+    text-align: center;
+    color: #dddddd;
+    font-size: 2em;
+    box-sizing: border-box;
+    font-family:sans-serif;
+    letter-spacing: 0.2em;
+
+} 
 h1 span
 {   opacity: 0;
     display:inline-bloc;
